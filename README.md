@@ -1,4 +1,4 @@
-## All in One database version management
+## All-in-One Database Version Management Tool
 #### Native, Lightweight, Simple
 
 This repository is currently being used for hosting the official issue & bug tracker of DBngin.
