@@ -1,4 +1,4 @@
-## All-in-One Database Version Management Tool
+## Free All-in-One Database Version Management Tool
 #### Native, Lightweight, Simple
 #### You can install and start many versions of MySQL, PostgreSQL, Redis...within a click.
 
