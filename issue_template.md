@@ -1,5 +1,9 @@
-1. Which driver are you using and version of it (Ex: PostgreSQL 10.0):
+Please fill out the detail below, it helps me investigate the bug:
 
-2. Which DBngin build number are you using:
+1. Driver (Ex: PostgreSQL 10.0):
 
-3. The steps to reproduce this issue:
+2. DBngin build number:
+
+3. macOS version:
+
+4. The steps to reproduce this issue:
