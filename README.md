@@ -8,7 +8,7 @@ Download: [here](https://dbngin.com)
 
 Report bugs/request new feature: [issues](https://github.com/TablePlus/DBngin/issues).
 
-Author email: huy@tableplusapp.com
+Author email: huy@tableplus.com
 
 App screenshots:
 
